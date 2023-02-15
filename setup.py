@@ -6,9 +6,9 @@ setup(
     author="Sergei Sharkov",
     author_email="serezhasharkov2003@gmail.com",
     url='https://github.com/ssharkov03/PullentiPython',  # Provide either the link to your github or to your website
-    download_url='https://github.com/ssharkov03/PullentiPython/archive/refs/tags/0.0.2.tar.gz',  # I explain this later on
+    download_url='https://github.com/ssharkov03/PullentiPython/archive/refs/tags/0.0.3.tar.gz',  # I explain this later on
     description="Python implementation of PullentiPython.",
-    package_dir={"": "pullenti"},
-    packages=find_packages(where="pullenti"),
+    package_dir={"": "PullentiPython"},
+    packages=find_packages(where="PullentiPython"),
     python_requires=">=3.8"
 )
