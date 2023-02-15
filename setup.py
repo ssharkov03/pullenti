@@ -1,14 +1,17 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pullenti-python",
-    version="0.0.1",
+    name="PullentiPython",
+    version="0.0.5",
     author="Sergei Sharkov",
     author_email="serezhasharkov2003@gmail.com",
     url='https://github.com/ssharkov03/PullentiPython',  # Provide either the link to your github or to your website
-    download_url='https://github.com/ssharkov03/PullentiPython/archive/refs/tags/0.0.4.tar.gz',  # I explain this later on
+    download_url='https://github.com/ssharkov03/PullentiPython/archive/refs/tags/0.0.5.tar.gz',  # I explain this later on
     description="Python implementation of PullentiPython.",
-    package_dir={"": "PullentiPython"},
-    packages=find_packages(where="PullentiPython"),
+    packages=find_packages(),
     python_requires=">=3.8"
 )
+
+
+
+
