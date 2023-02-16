@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: PullentiPython-ssharkov
+Version: 0.0.7
+Summary: Python implementation of PullentiPython.
+Home-page: https://github.com/ssharkov03/pullenti
+Download-URL: https://github.com/ssharkov03/pullenti/archive/refs/tags/0.0.7.tar.gz
+Author: Sergei Sharkov
+Author-email: serezhasharkov2003@gmail.com
+Requires-Python: >=3.8
+License-File: LICENSE.txt
