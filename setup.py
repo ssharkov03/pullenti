@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="PullentiPython-ssharkov",
+    name="PullentiPython",
     version="0.0.9",
     author="Sergei Sharkov",
     author_email="serezhasharkov2003@gmail.com",
