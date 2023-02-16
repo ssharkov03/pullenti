@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: PullentiPython-ssharkov
-Version: 0.0.5
-Summary: Python implementation of PullentiPython.
-Author: Sergei Sharkov
-Author-email: serezhasharkov2003@gmail.com
-Requires-Python: >=3.8
